@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Astha 👋
 
-<!--
-**astharane03/astharane03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on distributed systems, event-driven architecture, and cloud-native infrastructure. I like understanding why systems fail and building them so they don't.
 
-Here are some ideas to get you started:
+Graduated from **IIT Guwahati** with a B.Tech in Mathematics and Computing (2025).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I work with
+
+**Languages**
+`Java` `Python` `C/C++` `JavaScript` `SQL` `Lua`
+
+**Backend & Infra**
+`Spring Boot` `Kafka` `Redis` `PostgreSQL` `Kubernetes` `Docker` `AWS` `GCP`
+
+**Observability**
+`Prometheus` `Grafana` `Micrometer` `AWS CloudWatch`
+
+---
+
+### 🚀 Featured Projects
+
+**[Distributed Trade Processing System](https://github.com/astharane03/trade-processing-system)**
+Financial exchange with a heap-based order book, Kafka-driven microservices, event sourcing with incremental crash recovery, and two-layer idempotency.
+
+**[Adaptive Rate Limiter + API Gateway](https://github.com/astharane03/adaptive-rate-limiter)**
+Spring Boot gateway with Redis Lua atomic rate limiting, behavioral risk scoring, Resilience4j circuit breaking, and Kubernetes HPA deployment.
+
+**[Redis Clone & Advanced Networking](https://github.com/astharane03/Advanced_Networks)**
+Redis-like in-memory database built from scratch in C/C++ with AVL tree storage, thread pools, event loops, and a WFQ load balancer.
+
+---
+
+### ✍️ Writing
+
+[DynamoDB Internals — consistent hashing, vector clocks, quorum, and Merkle tree replica sync](https://blinkx.in/curve/tech-updates/dynamo-d-b-an-always-available-k-v-store)
+
+---
+
+### 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/astha-rane-2b9b84229)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://astha-rane.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:astharane28@gmail.com)
