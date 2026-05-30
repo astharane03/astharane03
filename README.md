@@ -33,7 +33,7 @@ Redis-like in-memory database built from scratch in C/C++ with AVL tree storage,
 
 ### ✍️ Writing
 
-[DynamoDB Internals — consistent hashing, vector clocks, quorum, and Merkle tree replica sync](https://blinkx.in/curve/tech-updates/dynamo-d-b-an-always-available-k-v-store)
+[DynamoDB Internals](https://blinkx.in/curve/tech-updates/dynamo-d-b-an-always-available-k-v-store)
 
 ---
 
