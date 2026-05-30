@@ -4,7 +4,7 @@ Backend engineer passionate about distributed systems, event-driven architecture
 
 I enjoy building systems that are scalable, reliable, and resilient—from Kafka-driven microservices and event-sourced platforms to rate limiters, databases, and trading systems. I'm particularly interested in understanding why systems fail, how they recover, and the engineering trade-offs behind large-scale software.
 
-Graduated from **IIT Guwahati** with a B.Tech in Mathematics and Computing (2025).
+🎓 B.Tech in Mathematics & Computing, IIT Guwahati (2025)
 
 ---
 
