@@ -1,6 +1,8 @@
 # Hi, I'm Astha 👋
 
-Backend engineer focused on distributed systems, event-driven architecture, and cloud-native infrastructure. I like understanding why systems fail and building them so they don't.
+Backend engineer passionate about distributed systems, event-driven architectures, and cloud-native infrastructure.
+
+I enjoy building systems that are scalable, reliable, and resilient—from Kafka-driven microservices and event-sourced platforms to rate limiters, databases, and trading systems. I'm particularly interested in understanding why systems fail, how they recover, and the engineering trade-offs behind large-scale software.
 
 Graduated from **IIT Guwahati** with a B.Tech in Mathematics and Computing (2025).
 
@@ -13,9 +15,6 @@ Graduated from **IIT Guwahati** with a B.Tech in Mathematics and Computing (2025
 
 **Backend & Infra**
 `Spring Boot` `Kafka` `Redis` `PostgreSQL` `Kubernetes` `Docker` `AWS` `GCP`
-
-**Observability**
-`Prometheus` `Grafana` `Micrometer` `AWS CloudWatch`
 
 ---
 
